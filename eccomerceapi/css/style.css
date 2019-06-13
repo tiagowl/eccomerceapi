@@ -5,6 +5,30 @@
     position: absolute;
 }
 
+#logo{
+    position: absolute;
+    margin-top: -10px;
+    margin-left: 50px;
+    height: 150px;
+    width: 300px;
+}
+
+#login{
+    position: absolute;
+    margin-left: 880px;
+    height: 60px;
+    width: 60px;
+    margin-top: 40px;
+}
+
+#subscribe{
+    position: absolute;
+    margin-top: 20px;
+    height: 100px;
+    width: 80px;
+    margin-left: 1010px;
+}
+
 .sub-topo{
     position: absolute;
     width: 100%;

@@ -12,7 +12,7 @@
     <header>
         <div class="topo">
             <figure>
-                <img src="img/logo.png" class="logo" alt="">
+                <img src="img/logo.png" id="logo" alt="">
                 <img src="img/login.png" id="login" alt="">
                 <img src="img/subscribe.png" id="subscribe" alt="">
             </figure>
